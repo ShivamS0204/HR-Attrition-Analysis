@@ -1,14 +1,12 @@
 **HR Attrition Analysis:**
 
-**Overview**
+**Overview:**
 
 This repository contains an HR Attrition Analysis performed using Power BI. The analysis provides insights into employee attrition trends, key influencing factors, and potential strategies to improve employee retention. The dataset and visualizations help HR professionals make data-driven decisions to reduce turnover and improve workforce stability.
 
-**Features**
+**Features:**
 
-* Dashboard Overview: A comprehensive Power BI dashboard showcasing attrition trends and key HR metrics.
-
-* Key Metrics Analyzed:
+**Key Metrics Analyzed:**
 
 1. Employee attrition rate
 
@@ -24,7 +22,7 @@ This repository contains an HR Attrition Analysis performed using Power BI. The 
 
 7. Predictive Insights: Identifies factors contributing to attrition and suggests strategies to improve retention.
 
-**Dataset**
+**Dataset:**
 
 The analysis is based on HR data, which includes information on employees such as:
 
@@ -40,6 +38,6 @@ The analysis is based on HR data, which includes information on employees such a
 
 6. Work experience
 
-**Job satisfaction**
+7.Job satisfaction
 
-Attrition status (Yes/No)
+8.Attrition status (Yes/No)
